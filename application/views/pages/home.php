@@ -6,6 +6,8 @@
         <li data-target="#product-carousel" data-slide-to="1"></li>
         <li data-target="#product-carousel" data-slide-to="2"></li>
     </ol>
+
+
 <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item" onclick="location.href='<?php echo base_url();?>product'">
